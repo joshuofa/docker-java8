@@ -1,7 +1,7 @@
 # OpenJDK Java 8 JRE 
 
 # Pull base image.
-FROM shaloo/docker-base
+FROM shaloo/base
 
 # Install Java.
 RUN \
